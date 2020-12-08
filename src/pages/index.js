@@ -1,6 +1,6 @@
 import Global from './Global'
-import Indo from './Indo'
+import Indo from './Indonesia'
 import Provinsi from './Provinsi'
 
 
-export { Global, Indo, Provinsi}
+export { Global, Indonesia, Provinsi}

@@ -24,7 +24,7 @@ function App() {
                         </Link>
                         </li>
                         <li>
-                        <Link to="/Indo">
+                        <Link to="/Indonesia">
                         Indonesia
                         </Link>
                         </li>
@@ -45,7 +45,7 @@ function App() {
                 <Route path="/Provinsi">
                     <Provinsi />
                 </Route>
-                <Route path="/Indo">
+                <Route path="/Indonesia">
                     <Indo />
                 </Route>
                 <Route path="/Global">
@@ -88,7 +88,7 @@ const Homepage = () => {
       </Carousel>
       
       <div className="mt-5">
-      <p className="welcome"><i>made by Damping, Glainhard A.A</i></p>
+      <p className="welcome"><i>made by Patimasang, George Natalino</i></p>
       </div>
       </div>
       

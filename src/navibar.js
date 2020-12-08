@@ -22,7 +22,7 @@ export default class Navibar {
                                 <Link to="/global" className="nav-link">Data Global</Link>
                             </li>
                             <li className="nav-item ml-5">
-                                <Link to="/hotline" className="nav-link">Hotline Corona</Link>
+                                <Link to="/hotline" className="nav-link">Hubungi Kami</Link>
                             </li>
                         </ul> 
                     </div>
